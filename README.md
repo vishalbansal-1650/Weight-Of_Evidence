@@ -1,2 +1,2 @@
-# Weight-Of_Evidence
+# Weight-Of-Evidence
 Implementation of weight of evidence and Information value techniques using Python
